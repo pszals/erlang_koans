@@ -15,4 +15,3 @@ if_you_want_to_make_a_lisp_interpreter_do_not_go_alone_take_this() ->
 
 joining_a_list_of_strings() ->
   "Oxford,Comma" =:= string:join(["Oxford", "Comma"], ",").
-
